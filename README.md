@@ -21,7 +21,7 @@ go build .
 
 ```
 
-in your .zshrc add a a alias
+in your .zshrc add a alias
 ```
  alias ipa="./your/repo/folder"
 ```
